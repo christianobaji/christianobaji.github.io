@@ -1,54 +1,48 @@
 body{
-    background:url(../image/picture1.jpeg); 
-    background: no repeat;
+    background: black;
 }
 
-h1 {
-	color: red;
-	border: 2px;
-	background: black;
-	float: center;
-	text-align: center;
-	padding: 8px;
-	margin: 0;
+
+.girl{
+    color:blue;
+width: 20%;
+padding: 20px;
+border:20px solid pink;
+    
 }
 
-p {
-	background: blue;
-	border: 8px solid green;
-	float: right;
-	text-align: justify;
-	font-family: inherit;
-	font-size: large;
-	color: white;
-	padding: 10px;
-	width: 140px;
-	margin: 40px;
-	height: 1000px;
+.boy{
+    text-align: right;
+    padding: 20px;
+    color: red;
+    border: 2px blue dotted;
+    
+    
+    
+    
+}
+h3{
+    border: 10px solid grey;
+    color: green;
+    
 }
 
-h4 {
-	background: blue;
-	border: 10px solid green;
-	float: left;
-	text-align: justify;
-	color: white;
-	padding: 10px;
-	margin: 40px;
-	width: 140px;
-	margin: 40px;
-	height: 1000px;
-
+.june{
+    color:red;
+}
+h1{
+    color: red;
+    border: 10px solid green;
+    text-align: center;
+}
+.maga{
+    color: yellow;
 }
 
-h3 {
-	background: orange;
-	border: 10px solid red;
-	float: right;
-	text-align: inherit;
-	margin: 20px;
-	width: 600px;
-	padding: 40px;
-	height: 900px;
-
+footer{
+    color: red;
+    border: 20px white solid;
+    padding: 18px;
+    text-align: center;
+    float: center;
 }
