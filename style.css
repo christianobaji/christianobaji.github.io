@@ -1,0 +1,54 @@
+body{
+    background:url(../image/picture1.jpeg); 
+    background: no repeat;
+}
+
+h1 {
+	color: red;
+	border: 2px;
+	background: black;
+	float: center;
+	text-align: center;
+	padding: 8px;
+	margin: 0;
+}
+
+p {
+	background: blue;
+	border: 8px solid green;
+	float: right;
+	text-align: justify;
+	font-family: inherit;
+	font-size: large;
+	color: white;
+	padding: 10px;
+	width: 140px;
+	margin: 40px;
+	height: 1000px;
+}
+
+h4 {
+	background: blue;
+	border: 10px solid green;
+	float: left;
+	text-align: justify;
+	color: white;
+	padding: 10px;
+	margin: 40px;
+	width: 140px;
+	margin: 40px;
+	height: 1000px;
+
+}
+
+h3 {
+	background: orange;
+	border: 10px solid red;
+	float: right;
+	text-align: inherit;
+	margin: 20px;
+	width: 600px;
+	padding: 40px;
+	height: 900px;
+
+}
